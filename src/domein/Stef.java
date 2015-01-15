@@ -14,4 +14,5 @@ public class Stef {
     private boolean doetHetHetGoed(){
         return true;
     }
+    private String lijktGoedTeGaan;
 }
